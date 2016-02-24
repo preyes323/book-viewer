@@ -1,4 +1,3 @@
-require 'pry'
 require "tilt/erubis"
 require "sinatra"
 require "sinatra/reloader" if development?
